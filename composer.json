@@ -1,0 +1,13 @@
+{
+    "name": "yii/composer_demo",
+    "description": "create composer demo",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "P0rZ9",
+            "email": "2132402066@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
